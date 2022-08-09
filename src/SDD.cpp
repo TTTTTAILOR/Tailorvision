@@ -476,7 +476,7 @@ void Webconfig()
   wm.resetSettings(); // wipe settings
   
   // add a custom input field
-  int customFieldLength = 40;
+  //int customFieldLength = 40;
   
   // new (&custom_field) WiFiManagerParameter("customfieldid", "Custom Field Label", "Custom Field Value", customFieldLength,"placeholder=\"Custom Field Placeholder\"");
   
